@@ -1,0 +1,13 @@
+# Среда разработки PyCharm
+.idea/
+*.iml
+
+# Виртуальное окружение Python
+venv/
+ENV/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
