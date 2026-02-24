@@ -38,7 +38,7 @@ def main():
         with ui.dialog() as about_dialog:
             with ui.card().classes('glass-card p-8 w-96 items-center text-center'):
                 with ui.avatar(size='100px').classes('shadow-lg border-2 border-purple-500'):
-                    ui.image('https://link-to-your-photo.jpg').classes('rounded-full')
+                    ui.image('https://github.com/Mumunich/QA-Workstation/raw/master/6blE.jpg').style('height: 100%; width: 100%; object-fit: cover;')
                 ui.label('Junior QA Engineer').classes('text-2xl font-black mt-2 text-white')
                 ui.label('Студент SkyPro | Январь 2025').classes('text-purple-300 text-sm italic mb-4')
 
